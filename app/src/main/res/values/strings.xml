@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CaсheTest</string>
+    <string name="base_url">"https://raw.githubusercontent.com/4nt0n64r/CaheTest/master"</string>
+
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_data">Enter data</string>
+    <string name="find">Find</string>
+    <string name="delete">Delete</string>
+    <string name="network">Network</string>
+</resources>
